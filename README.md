@@ -34,6 +34,19 @@ _install package:_
 $ cargo install [package]
 ```
 
+_create a final build of project:_
+
+```bash
+$ cargo build
+```
+
+_create a optimazed build of release_
+
+```bash
+$ cargo build --release
+```
+> _build stored on **target/release/**_
+
 _auto run cargo command_
 
 ```bash
