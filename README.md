@@ -19,11 +19,24 @@ $ rustdoc hello.rc
 _create new project:_
 
 ```bash
-$ cargo new calc
+$ cargo new [project name]
 ```
 
 _compile and run the project:_
 
 ```bash
 $ cargo run
+```
+
+_install package:_
+
+```bash
+$ cargo install [package]
+```
+
+_auto run cargo command_
+
+```bash
+$ cargo install cargo-watch
+$ cargo watch -x [command, e.g: run]
 ```
