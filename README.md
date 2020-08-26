@@ -1,5 +1,7 @@
 # Rust-lang-study
 
+## Unique file
+
 _compile:_
 
 ```bash
@@ -12,8 +14,16 @@ _generate docs:_
 $ rustdoc hello.rc
 ```
 
+## Project
+
 _create new project:_
 
 ```bash
 $ cargo new calc
+```
+
+_compile and run the project:_
+
+```bash
+$ cargo run
 ```
