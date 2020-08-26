@@ -11,3 +11,9 @@ _generate docs:_
 ```bash
 $ rustdoc hello.rc
 ```
+
+_create new project:_
+
+```bash
+$ cargo new calc
+```
