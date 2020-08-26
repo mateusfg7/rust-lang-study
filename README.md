@@ -22,6 +22,12 @@ _create new project:_
 $ cargo new [project name]
 ```
 
+_create a library project:_
+
+```bash
+$ cargo new [library project name] --lib
+```
+
 _compile and run the project:_
 
 ```bash
